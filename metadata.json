@@ -1,0 +1,6 @@
+{
+  "name": "AHAVA DIGITAL HUB",
+  "description": "Connecting Businesses to More Customers. Nigeria's premier business directory and advertising marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
